@@ -14,8 +14,7 @@ This repository contains algorithmic problem-solving exercises collected from va
 - Codeforces  
 - LeetCode  
 - CSES  
-- HackerRank
-- currently updating more...  
+- HackerRank  
 
 ## Structure
 
@@ -32,6 +31,7 @@ platform/
 - Two Pointers  
 - Dynamic Programming (basic)  
 - Graph fundamentals  
+- will add more areas in the future...  
 
 ## Philosophy
 
