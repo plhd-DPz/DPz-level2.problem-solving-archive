@@ -18,9 +18,9 @@ This repository contains algorithmic problem-solving exercises collected from va
 
 ## Structure
 
-platform/
-    difficulty/
-        problem_name
+    platform/
+        difficulty/
+            problem_name
 
 ## Focus Areas
 
